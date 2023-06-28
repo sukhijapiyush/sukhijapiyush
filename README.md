@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🧑‍💻 About Me:
 I am Piyush Sukhija, a curious programmer interested in understanding the underlying logic of things and using it to solve complex and challenging real-world problems and create something exciting and fun to play with.<br>Let's talk about Development<br>👯 Open to work on Web or Data based Projects 🤞🏼<br>🛠 Working with Frontend, Java, and Python 🤩<br>🎯 Focussing mainly on Data Engineering and Analysis ⚙️
 
 
