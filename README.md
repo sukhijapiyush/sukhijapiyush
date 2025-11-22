@@ -1,14 +1,40 @@
-# 🧑‍💻 About Me:
-I am Piyush Sukhija, a curious programmer interested in understanding the underlying logic of things and using it to solve complex and challenging real-world problems and create something exciting and fun to play with.<br>Let's talk about Development<br>👯 Open to work on Web or Data based Projects 🤞🏼<br>🛠 Working with Frontend, Java, and Python 🤩<br>🎯 Focussing mainly on Data Engineering and Analysis ⚙️
+# Hi, I’m Piyush Sukhija 👋  
+**Lead Data Scientist | NLP • GenAI • Agentic AI • MLOps**  
+New Delhi, India · [Website](https://sukhijapiyush.github.io/) · he/him
 
+---
 
-### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyushsukhija/)
+## 🚀 What I do  
+I lead data-science and AI initiatives that move business needles, scale operational systems, and empower people-centric analytics. My focus areas:
+- Building **production ML/AI systems** from data ingestion through deployment and monitoring.  
+- Applying NLP, GenAI & Agentic-AI to real-world domains (finance, HR, procurement) to surface insights and automate decisions.  
+- Driving measurable business impact (e.g., 25 % reduction in verification time, improved classification accuracy, faster decision cycles).  
+- Mentoring teams, collaborating with stakeholders (directors, VPs), and translating strategy into analytics delivery.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sukhijapiyush&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sukhijapiyush&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sukhijapiyush&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
+## 📊 My Impact  
+- Designed and developed multiple Agentic AI and GenAI solutions to meet rapidly changing business demands across financial, HR, and operational workflows.
+- Led end-to-end delivery of production-grade ML systems, from data engineering to model deployment and performance monitoring.
+- Built scalable MLOps pipelines with automated retraining, data-drift detection, and real-time model monitoring to ensure long-term reliability.
+- Architected NLP-driven automation frameworks that improved information retrieval, reduced processing times, and enhanced decision speed across teams.
+- Created analytics and AI accelerators that streamlined workflows, reducing manual effort and increasing process efficiency.
+- Collaborated with directors, VPs, and cross-functional stakeholders to shape AI strategy, define success metrics, and ensure measurable business outcomes.
+- Mentored data scientists and engineers, establishing best practices for model development, evaluation, and operationalisation.
+- Delivered explainable, business-aligned machine learning solutions that improved insights visibility, forecasting accuracy, and operational transparency.
+
+---
+
+## 🎯 What I’m Exploring Now  
+- Agentic AI systems for workflow automation and orchestration.  
+- Advances in large-language-model fine-tuning for domain-specific use-cases (HR/People Analytics).  
+- Explainable AI and monitoring frameworks for production systems (bias detection, drift).  
+- Mentorship frameworks and team scaling in analytics organisations.
+
+---
+
+## 📫 Let’s Connect  
+- LinkedIn: [https://www.linkedin.com/in/piyushsukhija/]  
+- Email: [your.email@domain.com]  
+- Open to: Leadership/Technical roles in Data Science, Generative AI across domains, finance, HR, Pharmaceutical and collaborative research.
+
