@@ -25,6 +25,16 @@ I lead data-science and AI initiatives that move business needles, scale operati
 
 ---
 
+## 🛠️ Tech Stack  
+**Languages:** Python · SQL  
+**ML & AI:** TensorFlow · PyTorch · Scikit-Learn · spaCy · LangChain · Doc2Vec  
+**GenAI / Agentic:** LLMs · RAG · Agents · Prompt Engineering  
+**MLOps:** Airflow · MLflow · Docker · Evidently  
+**Cloud:** AWS (SageMaker, Lambda, S3)  
+**Apps & Tools:** Streamlit · FastAPI · GitHub Actions
+
+---
+
 ## 🎯 What I’m Exploring Now  
 - Agentic AI systems for workflow automation and orchestration.  
 - Advances in large-language-model fine-tuning for domain-specific use-cases (HR/People Analytics).  
@@ -35,6 +45,6 @@ I lead data-science and AI initiatives that move business needles, scale operati
 
 ## 📫 Let’s Connect  
 - LinkedIn: [https://www.linkedin.com/in/piyushsukhija/]  
-- Email: [your.email@domain.com]  
+- Email: [piyush.sukhija01@gmail.com]  
 - Open to: Leadership/Technical roles in Data Science, Generative AI across domains, finance, HR, Pharmaceutical and collaborative research.
 
